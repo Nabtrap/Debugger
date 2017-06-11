@@ -21,7 +21,7 @@ public class Debugger{
 	
 	public void start() {
 		System.out.println("╔═════════════════════════════╗");
-		System.out.println("║ Yannis Debugger Tool "+version+" ║");
+		System.out.println("║ MrBesen Debugger Tool "+version+" ║");
 		System.out.println("╚═════════════════════════════╝");
 		
 		eventmanager = new EventManager();
